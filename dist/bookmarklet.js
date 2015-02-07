@@ -1,0 +1,1 @@
+javascript:!function(o){var n=o.location;n.href=n.protocol+"//m."+n.host+n.pathname}(window);void(0);

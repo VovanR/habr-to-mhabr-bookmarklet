@@ -1,0 +1,33 @@
+{
+  "name": "habr-to-mhabr-bookmarklet",
+  "version": "1.0.0",
+  "description": "Switch Habr to mHabr",
+  "homepage": "https://github.com/VovanR/habr-to-mhabr-bookmarklet",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VovanR/habr-to-mhabr-bookmarklet.git"
+  },
+  "author": {
+    "name": "VovanR",
+    "url": "http://vovanr.com/"
+  },
+  "devDependencies": {
+    "buffer": "",
+    "csso": "",
+    "del": "",
+    "fs": "",
+    "gulp": "",
+    "gulp-concat": "",
+    "gulp-jshint": "",
+    "gulp-uglify": "",
+    "jshint-stylish": "",
+    "map-stream": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/VovanR/habr-to-mhabr-bookmarklet/issues"
+  }
+}
