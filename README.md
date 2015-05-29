@@ -1,5 +1,4 @@
-Habr To mHabr Bookmarklet
-=========================
+# Habr To mHabr Bookmarklet
 
 Букмарклет, переключающий статью в мобильный вид.
 Поддерживает Habrahabr и Geektimes:
@@ -17,6 +16,9 @@ http://geektimes.ru/company/foo/blog/123456/ → http://m.geektimes.ru/company/f
 
 ## Сборка
 Запускаем
-```
+```sh
 gulp
 ```
+
+## License
+MIT © [Vladimir Rodkin](https://github.com/VovanR)
